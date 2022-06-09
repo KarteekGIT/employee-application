@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.employee.employee_application.AppTest" time="0.074" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.employee.employee_application.AppTest" time="0.072" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.15\bin"/>
-    <property name="sun.java.command" value="C:\Users\karteek\AppData\Local\Temp\surefire12164388537215802438\surefirebooter16441142871527736348.jar C:\Users\karteek\AppData\Local\Temp\surefire12164388537215802438 2022-06-09T07-20-11_198-jvmRun1 surefire5312176185656680055tmp surefire_010202954885245235991tmp"/>
+    <property name="sun.java.command" value="C:\Users\karteek\AppData\Local\Temp\surefire7853217550820896204\surefirebooter8865881290801132102.jar C:\Users\karteek\AppData\Local\Temp\surefire7853217550820896204 2022-06-09T07-40-53_853-jvmRun1 surefire6627338124227689899tmp surefire_016291306433899970029tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\karteek\Documents\workspace\employee-application\target\test-classes;C:\Users\karteek\Documents\workspace\employee-application\target\classes;C:\Users\karteek\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\karteek\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\karteek\.m2\repository\com\maven\employeeService\1.0-SNAPSHOT\employeeService-1.0-SNAPSHOT.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\karteek\AppData\Local\Temp\surefire12164388537215802438\surefirebooter16441142871527736348.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\karteek\AppData\Local\Temp\surefire7853217550820896204\surefirebooter8865881290801132102.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.15+8-LTS-149"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.employee.employee_application.AppTest" time="0.003"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.employee.employee_application.AppTest" time="0.008"/>
 </testsuite>
