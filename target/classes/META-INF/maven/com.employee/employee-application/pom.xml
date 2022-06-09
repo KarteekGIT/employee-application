@@ -80,7 +80,7 @@
             <configuration>  
                 <archive>  
                     <manifest>  
-                        <mainClass>com.javatpoint.AppMain</mainClass>  
+                        <mainClass>com.employee.employee_application.App</mainClass>  
                     </manifest>  
                 </archive>  
             </configuration>  

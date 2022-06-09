@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: karteek
 Build-Jdk: 17.0.2
-Main-Class: com.javatpoint.AppMain
+Main-Class: com.employee.employee_application.App
 Created-By: Maven Integration for Eclipse
 
